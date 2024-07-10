@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sudhan260703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1glrQhxyax01zYCVQpjjqrJAaN5XWCpIu/view?usp=sharing](https://drive.google.com/file/d/1glrQhxyax01zYCVQpjjqrJAaN5XWCpIu/view?usp=sharing)
+- 📄 Know about my experiences [Click for Resume](https://drive.google.com/file/d/1H_MC5BmHawo7fznu5k18mo27cGhPKPF8/view)
 
 - ⚡ Fun fact **I think I am funny**
 
