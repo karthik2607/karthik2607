@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Sudhan</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A Passionate Guy from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik2607&label=Profile%20views&color=0e75b6&style=flat" alt="karthik2607" /> </p>
 
