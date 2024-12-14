@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karthik Sudhan</h1>
-<h3 align="center">A Passionate Guy from India</h3>
+//<h3 align="center">A Passionate Guy from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik2607&label=Profile%20views&color=0e75b6&style=flat" alt="karthik2607" /> </p>
 
-- 🔭 I’m currently working on **Web Applications and ML projects**
-
-- 🌱 I’m currently learning **Nextjs**
-
-- 💬 Ask me about **React,Nextjs**
+- 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **sudhan260703@gmail.com**
-
-- 📄 Know about my experiences [Click for Resume](https://drive.google.com/file/d/1ab_v-MWeTbsW3RulCdOAWyG4y63eqOGO/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
