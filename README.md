@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **sudhan260703@gmail.com**
 
+- 💼 Know more about me -<a href = "https://karthik2607.github.io/My-Portfolio/">**Portfolio**</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthik-sudhan-s-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-sudhan-s-g" height="30" width="40" /></a>
