@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sudhan260703@gmail.com**
 
-- 💼 Know more about me -<a href = "https://karthik2607.github.io/My-Portfolio/">**Portfolio**</a>
+- 💼 Know more about me <a href = "https://karthik2607.github.io/My-Portfolio/">**Portfolio**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
