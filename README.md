@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik2607&label=Profile%20views&color=0e75b6&style=flat" alt="karthik2607" /> </p>
 
-- 🔭 I’m currently working on **Infrastrctre** & **BigData**
+- 🔭 I’m currently working on **Infrastructre** & **BigData**
 
 - 📫 How to reach me **sudhan260703@gmail.com**
 
